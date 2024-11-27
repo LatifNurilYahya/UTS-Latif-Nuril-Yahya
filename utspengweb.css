@@ -285,7 +285,7 @@ section{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url(/latihan/images/bgmatcha.webp) no-repeat;
+    background: url(latihan/images/bgmatcha.webp) no-repeat;
     background-position: center;
     background-size: cover;
     padding-top: 40rem;
